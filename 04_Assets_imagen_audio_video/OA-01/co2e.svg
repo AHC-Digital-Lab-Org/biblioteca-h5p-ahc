@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240">
+  <rect width="800" height="240" rx="28" fill="#f4f1e8"/>
+  <path d="M0 0h250l-68 240H0z" fill="#285b48"/>
+  <circle cx="92" cy="82" r="48" fill="#4f9748" opacity=".9"/>
+  <circle cx="151" cy="131" r="62" fill="#8bbd60" opacity=".72"/>
+  <text x="44" y="139" fill="#fff" font-family="Arial" font-size="58" font-weight="700">CO₂e</text>
+  <text x="304" y="70" fill="#285b48" font-family="Arial" font-size="20" font-weight="700" letter-spacing="3">UNA MÉTRICA COMÚN</text>
+  <rect x="304" y="94" width="116" height="48" rx="24" fill="#dcebd5"/>
+  <rect x="438" y="94" width="116" height="48" rx="24" fill="#dcebd5"/>
+  <rect x="572" y="94" width="116" height="48" rx="24" fill="#dcebd5"/>
+  <text x="362" y="126" text-anchor="middle" fill="#285b48" font-family="Arial" font-size="22" font-weight="700">CO₂</text>
+  <text x="496" y="126" text-anchor="middle" fill="#285b48" font-family="Arial" font-size="22" font-weight="700">CH₄</text>
+  <text x="630" y="126" text-anchor="middle" fill="#285b48" font-family="Arial" font-size="22" font-weight="700">N₂O</text>
+  <path d="M362 158v20h268v-20M496 178v22" fill="none" stroke="#4f9748" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="496" cy="205" r="9" fill="#4f9748"/>
+</svg>
